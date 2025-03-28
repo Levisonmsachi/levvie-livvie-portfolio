@@ -4,8 +4,8 @@
 Building secure, innovative solutions with clean code and modern tech.
 
 [![Portfolio Badge](https://img.shields.io/badge/🌐-Portfolio-2ea44f)](http://127.00.13/002/index.html#about)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub Followers](https://img.shields.io/github/followers/LEVVIE-LIVVIE?label=Follow&style=social)](https://github.com/LEVVIE-LIVVIE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/LevisonMsachi)
+[![GitHub Followers](https://img.shields.io/github/followers/LEVVIE-LIVVIE?label=Follow&style=social)](https://github.com/Levisonmsachi)
 
 ---
 
@@ -68,5 +68,5 @@ Building secure, innovative solutions with clean code and modern tech.
 [![GitHub](https://img.shields.io/badge/👨💻_@LEVVIE--LIVVIE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Levisonmsachi)  
 
 **💬 WhatsApp**  
-[![WhatsApp](https://img.shields.io/badge/📱_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourfullphonenumber)  
+[![WhatsApp](https://img.shields.io/badge/📱_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+265887071763)  
 *(Click to chat directly!)*
