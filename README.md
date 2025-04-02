@@ -1,7 +1,7 @@
 # 👨💻 LEVVIE-LIVVIE Portfolio
 
-**Full-Stack Developer | Ethical Hacker | Creative Problem Solver**  
-Building secure, innovative solutions with clean code and modern tech.
+**Aspiring: Full-Stack Developer | Network Engineer | Ethical Hacker | Creative Designer**  
+Building innovative digital experiences with clean code and stunning visuals.
 
 [![Portfolio Badge](https://img.shields.io/badge/🌐-Portfolio-2ea44f)](http://127.00.13/002/index.html#about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/LevisonMsachi)
