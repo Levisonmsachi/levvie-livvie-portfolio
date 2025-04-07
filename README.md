@@ -62,7 +62,7 @@ Building innovative digital experiences with clean code and stunning visuals.
 ## 📬 Let's Connect
 
 - ✉️ Email: levisonmsachi03@gmail.com
-- 🌐 Website: [levie-livvie.tech](https://levvie-livvie-portfolio.vercel.app)
+- 🌐 Website: [levie-livvie.portfolio](https://levvie-livvie-portfolio.vercel.app)
 - 
 **🔗 GitHub**  
 [![GitHub](https://img.shields.io/badge/👨💻_@LEVVIE--LIVVIE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Levisonmsachi)  
